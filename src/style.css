@@ -1,0 +1,9 @@
+button {
+  /* background-color: #04AA6D;  */
+  /* border: 1px solid green;  */
+  /* color: white;  */
+  padding: 10px 24px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 50%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+}

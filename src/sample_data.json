@@ -1,0 +1,23 @@
+[
+  {
+    "question": {
+      "choices": ["CPU", "ICUP", "VPN", "LAN"],
+      "correct_choice_index": 0,
+      "text": "What is the abbreviation for Central Processing Unit?"
+    }
+  },
+  {
+    "question": {
+      "choices": ["Laptop", "Console", "Keyboard", "Fingers"],
+      "correct_choice_index": 2,
+      "text": "What device do we use to input data into a computer?"
+    }
+  },
+  {
+    "question": {
+      "choices": ["True", "False"],
+      "correct_choice_index": 1,
+      "text": "All computers use the same type of processor?"
+    }
+  }
+]
